@@ -4,9 +4,9 @@
 
 > *Hello — I'm da Franze. ("da" = "the" in my dialect; "Franze/Fraänze" was my nickname as a child.)*
 
-Diplom-Physik-Ingenieur (Universität Paderborn, 1992–2002). Ich arbeite an drei Strängen — Physik, KI-Methodik und unkonventionelle Ideen. Jeder Strang hat sein eigenes Repository.
+**Diplom-Physikingenieur** (Universität Paderborn, 1992–2002). Ich arbeite an drei Strängen — Physik, KI-Methodik und unkonventionelle Ideen. Jeder Strang hat sein eigenes Repository.
 
-> *Diplom-Physik-Ingenieur (University of Paderborn, 1992–2002). I work on three strands — physics, AI methodology, and unconventional ideas. Each strand has its own repository.*
+> *Diplom-Physikingenieur — protected German engineering title (University of Paderborn, 1992–2002). I work on three strands — physics, AI methodology, and unconventional ideas. Each strand has its own repository.*
 
 ---
 
@@ -19,6 +19,10 @@ Diplom-Physik-Ingenieur (Universität Paderborn, 1992–2002). Ich arbeite an dr
 ```
 ∂²σ/∂t² − c²∇²σ + κ·T(r) = 0
 ```
+
+Die Mastergleichung beschreibt den Raum als schwingungsfähiges Medium: σ ist das Auslenkungsfeld der Raummatrix, c die Lichtgeschwindigkeit als Ausbreitung im Medium, κ die Resonanzsteifigkeit (Primärgröße der Theorie) und T(r) der Quellterm an Wirbelverankerungen. Aus dieser einen Gleichung lassen sich Maxwell, Schrödinger, Newton und die ART als Speziallösungen ableiten.
+
+> *The master equation describes space as a vibration-capable medium: σ is the displacement field of the space matrix, c the speed of light as propagation in the medium, κ the resonance stiffness (primary quantity of the theory), and T(r) the source term at vortex anchors. From this single equation, Maxwell, Schrödinger, Newton, and General Relativity can be derived as special-case solutions.*
 
 → **[github.com/da-Franze/RFT-Physik-Projekt](https://github.com/da-Franze/RFT-Physik-Projekt)** *(DE/EN, 20 Konsolidierungs-Dokumente, Zenodo-DOI, CC BY-NC-ND 4.0)*
 
