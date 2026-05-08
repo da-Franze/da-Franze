@@ -26,7 +26,7 @@ Mein Hintergrund ist der eines Ingenieurs, nicht eines reinen Theoretikers. Wäh
 
 ## Mein Arbeitsstil
 
-Ich entscheide inhaltlich. Die KIs (Claude, Sokrates, Gemini, Mistral, DeepSeek, Qwen-lokal) formalisieren, prüfen, kritisieren, dokumentieren. Mein Maßstab ist nicht, was eine KI sagt, sondern was die Realität sagt:
+Ich entscheide inhaltlich. Die KIs (Claude Code als „Denker", Claude als „Sokrates", ChatGPT, Gemini, Mistral, DeepSeek, Qwen-lokal) formalisieren, prüfen, kritisieren, dokumentieren. Mein Maßstab ist nicht, was eine KI sagt, sondern was die Realität sagt:
 
 > *"Der einzige Richter ist die Realität."*
 
