@@ -1,5 +1,13 @@
 <img src="banner.svg" alt="da-Franze — Drei Bereiche: RFT-Physik-Projekt, KI-Konzepte, Off-Grid-Thinking" width="100%"/>
 
+<p align="center">
+  <a href="https://github.com/da-Franze/RFT-Physik-Projekt"><img src="https://img.shields.io/badge/%F0%9F%8C%8C-RFT--Physik--Projekt-4f8eff?style=for-the-badge&labelColor=0d1117" alt="RFT-Physik-Projekt"/></a>
+  &nbsp;
+  <a href="https://github.com/da-Franze/KI-Konzepte"><img src="https://img.shields.io/badge/%F0%9F%A4%9D-KI--Konzepte-7c3aed?style=for-the-badge&labelColor=0d1117" alt="KI-Konzepte"/></a>
+  &nbsp;
+  <a href="https://github.com/da-Franze/Off-Grid-Thinking"><img src="https://img.shields.io/badge/%F0%9F%92%A1-Off--Grid--Thinking-f59e0b?style=for-the-badge&labelColor=0d1117" alt="Off-Grid-Thinking"/></a>
+</p>
+
 # Hallo — i bin da Franze.
 
 *("da" = "der" in meinem Dialekt; "Franze/Fraänze" war mein Rufname als Kind.)*
