@@ -71,3 +71,17 @@ Ich entscheide inhaltlich. Die KIs (Claude Code als „Denker", Claude als „So
 *„Der einzige Richter ist die Realität."*
 
 > *"The only judge is reality."*
+
+---
+
+## ☕ Unterstützen / Support
+
+Wenn dir das Projekt gefällt und du es unterstützen möchtest:
+
+> *If you like the project and want to support it:*
+
+- **[Ko-fi](https://ko-fi.com/rftprojekt)** — einmaliger Kaffee oder regelmäßige Unterstützung
+- **[PayPal](https://www.paypal.me/rftprojekt)** — direkt
+- **Kontakt** für inhaltliche Mitwirkung oder kommerzielle Anfragen: rft.projekt@posteo.de
+
+> *Ko-fi for a one-off coffee or recurring support, PayPal for direct contributions, or email rft.projekt@posteo.de for collaboration enquiries or commercial requests.*
