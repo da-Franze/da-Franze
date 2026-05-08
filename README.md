@@ -26,8 +26,8 @@ Mein Hintergrund ist der eines Ingenieurs, nicht eines reinen Theoretikers. Wäh
 
 > *My background is that of an engineer, not a pure theorist. During the ten years of study I worked in parallel as a student assistant at the university and on a 30-hour contract at **Orga Kartensysteme in Paderborn** — smartcards, signal processing. The constraint of taking content broadly rather than deeply was a burden at first, later a stroke of luck: cross-connections became visible that a specialised theorist does not see.*
 
-> *„Die Philosophie hat versagt, denn sie kann seit Newton die Welt nicht mehr erklären. Also muss es einen anschaulichen Weg geben mit einer anderen Sichtweise, die das kann."*
->
+*„Die Philosophie hat versagt, denn sie kann seit Newton die Welt nicht mehr erklären. Also muss es einen anschaulichen Weg geben mit einer anderen Sichtweise, die das kann."*
+
 > *"Philosophy has failed, because it has been unable to explain the world since Newton. So there must be a more graphic path, with a different perspective, that can."*
 
 ---
@@ -46,7 +46,9 @@ Ich entscheide inhaltlich. Die KIs (Claude Code als „Denker", Claude als „So
 
 > *I decide on content. The AIs (Claude Code as "Denker", Claude as "Sokrates", ChatGPT, Gemini, Mistral, DeepSeek, locally Qwen) formalise, check, criticise, document. My benchmark is not what an AI says, but what reality says:*
 
-> *„Der einzige Richter ist die Realität." — "The only judge is reality."*
+*„Der einzige Richter ist die Realität."*
+
+> *"The only judge is reality."*
 
 ---
 
