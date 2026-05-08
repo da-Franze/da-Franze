@@ -2,20 +2,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Drei Bereiche von da-Franze: RFT-Physik-Projekt, KI-Konzepte, Off-Grid-Thinking">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="100%" stop-color="#161b22"/>
+      <stop offset="0%" stop-color="#3b4a63"/>
+      <stop offset="100%" stop-color="#4b5b73"/>
     </linearGradient>
     <linearGradient id="glow1" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#4f8eff" stop-opacity="0.18"/>
-      <stop offset="100%" stop-color="#4f8eff" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#7eb1ff" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#7eb1ff" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="glow2" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.18"/>
-      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#b395ff" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#b395ff" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="glow3" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#f59e0b" stop-opacity="0.18"/>
-      <stop offset="100%" stop-color="#f59e0b" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#fbc454" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#fbc454" stop-opacity="0"/>
     </linearGradient>
   </defs>
 
@@ -28,50 +28,50 @@
   <ellipse cx="1000" cy="180" rx="180" ry="120" fill="url(#glow3)"/>
 
   <!-- Top label: "i bin da Franze." -->
-  <text x="600" y="50" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" font-size="22" font-weight="500" fill="#e6edf3" letter-spacing="3">
+  <text x="600" y="50" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" font-size="22" font-weight="500" fill="#f5f7fa" letter-spacing="3">
     i bin da Franze.
   </text>
 
   <!-- Three columns: symbols + titles -->
   <!-- Column 1: RFT -->
   <text x="200" y="150" text-anchor="middle" font-size="64">🌌</text>
-  <text x="200" y="200" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="22" font-weight="700" fill="#e6edf3">
+  <text x="200" y="200" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="22" font-weight="700" fill="#f5f7fa">
     RFT
   </text>
-  <text x="200" y="225" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14" fill="#8b949e">
+  <text x="200" y="225" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14" fill="#cdd5df">
     Resonanzfeldtheorie
   </text>
-  <text x="200" y="245" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12" fill="#6e7681" font-style="italic">
+  <text x="200" y="245" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12" fill="#a8b3c1" font-style="italic">
     Physik
   </text>
 
   <!-- Column 2: KI-Konzepte -->
   <text x="600" y="150" text-anchor="middle" font-size="64">🤝</text>
-  <text x="600" y="200" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="22" font-weight="700" fill="#e6edf3">
+  <text x="600" y="200" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="22" font-weight="700" fill="#f5f7fa">
     KI-Konzepte
   </text>
-  <text x="600" y="225" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14" fill="#8b949e">
+  <text x="600" y="225" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14" fill="#cdd5df">
     Drei-Wege-Tisch &amp; Drift-Diagnose
   </text>
-  <text x="600" y="245" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12" fill="#6e7681" font-style="italic">
+  <text x="600" y="245" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12" fill="#a8b3c1" font-style="italic">
     Methodik
   </text>
 
   <!-- Column 3: Off-Grid-Thinking -->
   <text x="1000" y="150" text-anchor="middle" font-size="64">💡</text>
-  <text x="1000" y="200" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="22" font-weight="700" fill="#e6edf3">
+  <text x="1000" y="200" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="22" font-weight="700" fill="#f5f7fa">
     Off-Grid-Thinking
   </text>
-  <text x="1000" y="225" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14" fill="#8b949e">
+  <text x="1000" y="225" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14" fill="#cdd5df">
     unkonventionelle Ideen
   </text>
-  <text x="1000" y="245" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12" fill="#6e7681" font-style="italic">
+  <text x="1000" y="245" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12" fill="#a8b3c1" font-style="italic">
     Querdenken
   </text>
 
   <!-- Bottom thin line + tagline -->
-  <line x1="200" y1="275" x2="1000" y2="275" stroke="#30363d" stroke-width="1"/>
-  <text x="600" y="293" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="11" fill="#6e7681" font-style="italic" letter-spacing="2">
+  <line x1="200" y1="275" x2="1000" y2="275" stroke="#7a8699" stroke-width="1"/>
+  <text x="600" y="293" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="11" fill="#a8b3c1" font-style="italic" letter-spacing="2">
     „Der einzige Richter ist die Realität."
   </text>
 </svg>
