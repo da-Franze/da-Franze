@@ -1,3 +1,5 @@
+<img src="banner.svg" alt="da-Franze — Drei Bereiche: RFT-Physik-Projekt, KI-Konzepte, Off-Grid-Thinking" width="100%"/>
+
 # Hallo — i bin da Franze.
 
 *("da" = "der" in meinem Dialekt; "Franze/Fraänze" war mein Rufname als Kind.)*
