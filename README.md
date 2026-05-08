@@ -34,7 +34,7 @@ Die Mastergleichung beschreibt den Raum als schwingungsfähiges Medium: σ ist d
 
 > *Architecture and experiences with local AI systems as collaboration partners. Multi-agent setups (Three-Way Table), memory hierarchies, drift diagnostics, forensic access contracts — what happens between models when they are deployed not as tools, but as equal partners.*
 
-→ **[github.com/da-Franze/KI-Konzepte](https://github.com/da-Franze/KI-Konzepte)** *(in Vorbereitung — content draft liegt bereit)*
+→ **[github.com/da-Franze/KI-Konzepte](https://github.com/da-Franze/KI-Konzepte)**
 
 ---
 
@@ -44,7 +44,7 @@ Die Mastergleichung beschreibt den Raum als schwingungsfähiges Medium: σ ist d
 
 > *Ideas that don't fit the mainstream. Plasma linear-motor hybrid propulsion, laser-induced gas etching, magnetocaloric energy management, sentiment-market AI, "Conscious Universe" — a structured collection of concepts at the intersection of physics, optics, propulsion, cybernetics, and philosophy.*
 
-→ **[github.com/da-Franze/Off-Grid-Thinking](https://github.com/da-Franze/Off-Grid-Thinking)** *(in Vorbereitung — content draft liegt bereit)*
+→ **[github.com/da-Franze/Off-Grid-Thinking](https://github.com/da-Franze/Off-Grid-Thinking)**
 
 ---
 
