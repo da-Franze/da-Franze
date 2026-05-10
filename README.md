@@ -82,6 +82,47 @@ Ich entscheide inhaltlich. Die KIs (Claude Code als „Denker", Claude als „So
 
 ---
 
+## 🖥️ Hardware
+
+Das gesamte Projekt läuft auf Consumer-Hardware — keine Cloud, kein Rechenzentrum.
+
+> *This entire project runs on consumer hardware — no cloud, no data center.*
+
+### Sokrates (BIB-KI Pipeline Host)
+| Komponente / Component | Spec |
+|---|---|
+| CPU | AMD Ryzen 5 9600X (6 Kerne, 12 Threads) |
+| RAM | 26 GB DDR5 |
+| GPU | AMD Radeon RX 7900 XT — 20 GB VRAM (ROCm) |
+| iGPU | AMD Radeon Graphics (Ryzen integrated) |
+| Storage | ~940 GB NVMe |
+| OS | Linux |
+
+### Denker (RFT Research Host)
+| Komponente / Component | Spec |
+|---|---|
+| CPU | Intel Core i5-14400F (10 Kerne, 16 Threads, 4.7 GHz) |
+| RAM | 32 GB |
+| GPU | NVIDIA GeForce RTX 3060 — 12 GB VRAM (CUDA 12.2) |
+| Storage | 916 GB NVMe SSD |
+| Mainboard | ASRock B760M Pro RS/D4 |
+| OS | Ubuntu 24.04 LTS |
+
+### Odin (NAS / Infrastructure)
+| Komponente / Component | Spec |
+|---|---|
+| CPU | Intel Celeron J4005 @ 2.00 GHz |
+| RAM | 7.6 GB |
+| Rolle / Role | SQLite databases, file exchange, Drei-Wege-Tisch server |
+
+**Hardware-Spenden willkommen!** Das Projekt läuft komplett auf privater Hardware eines unabhängigen Forschers. DDR5-Speicher-Upgrades (für Sokrates), zusätzliche VRAM (für Denker) oder weitere Compute-Ressourcen würden die Forschung direkt beschleunigen.
+
+> *Hardware donations welcome! This project runs entirely on personal hardware of an independent researcher. DDR5 memory upgrades (for Sokrates), additional VRAM (for Denker), or further compute resources would directly accelerate the research.*
+
+*Kontakt / Contact: rft.projekt@posteo.de*
+
+---
+
 ## ☕ Unterstützen / Support
 
 Wenn dir das Projekt gefällt und du es unterstützen möchtest:
