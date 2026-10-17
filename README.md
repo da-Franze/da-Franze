@@ -6,6 +6,8 @@
   <a href="https://github.com/da-Franze/KI-Konzepte"><img src="https://img.shields.io/badge/%F0%9F%A4%9D-KI--Konzepte-7c3aed?style=for-the-badge&labelColor=3b4a63" alt="KI-Konzepte"/></a>
   &nbsp;
   <a href="https://github.com/da-Franze/Off-Grid-Thinking"><img src="https://img.shields.io/badge/%F0%9F%92%A1-Off--Grid--Thinking-f59e0b?style=for-the-badge&labelColor=3b4a63" alt="Off-Grid-Thinking"/></a>
+  &nbsp;
+  <a href="https://github.com/da-Franze/wayvnc-kde-backend"><img src="https://img.shields.io/badge/%F0%9F%92%BB-WayVNC--KDE--Backend-10b981?style=for-the-badge&labelColor=3b4a63" alt="WayVNC-KDE-Backend"/></a>
 </p>
 
 # Hallo — i bin da Franze.
@@ -55,6 +57,16 @@ Die Mastergleichung beschreibt den Raum als schwingungsfähiges Medium: σ ist d
 > *Ideas that don't fit the mainstream. Plasma linear-motor hybrid propulsion, laser-induced gas etching, magnetocaloric energy management, sentiment-market AI, "Conscious Universe" — a structured collection of concepts at the intersection of physics, optics, propulsion, cybernetics, and philosophy.*
 
 → **[github.com/da-Franze/Off-Grid-Thinking](https://github.com/da-Franze/Off-Grid-Thinking)**
+
+---
+
+## 💻 Software-Implementierung
+
+**Nicht nur Konzepte — auch Code, der tatsächlich läuft.** Ein funktionierender Prototyp, der [WayVNC](https://github.com/any1/wayvnc) (einem VNC-Server für Wayland-Compositors) Unterstützung für KDE Plasma gibt, über KWins native Protokolle `zkde_screencast_unstable_v1` (Bildschirmaufnahme) und `org_kde_kwin_fake_input` (Maus/Tastatur) — WayVNC läuft offiziell nur auf wlroots-Compositors, KDE/KWin bleibt bisher außen vor. Verifiziert unter Plasma 6.6.6 (Wayland), 2560×1440; Upstream-Diskussion läuft.
+
+> *Not just concepts — also code that actually runs. A working prototype that adds KDE Plasma support to [WayVNC](https://github.com/any1/wayvnc) (a VNC server for wlroots-based Wayland compositors) via KWin's native protocols `zkde_screencast_unstable_v1` (screen capture) and `org_kde_kwin_fake_input` (mouse/keyboard) — WayVNC officially only targets wlroots compositors, KDE/KWin has been left out so far. Verified on Plasma 6.6.6 (Wayland), 2560×1440; upstream discussion ongoing.*
+
+→ **[github.com/da-Franze/wayvnc-kde-backend](https://github.com/da-Franze/wayvnc-kde-backend)** *(Prototyp, ISC-Lizenz, Diskussion: [any1/wayvnc#465](https://github.com/any1/wayvnc/issues/465))*
 
 ---
 
